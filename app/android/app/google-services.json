@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616119166325",
+    "project_id": "pothole-68dfe",
+    "storage_bucket": "pothole-68dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616119166325:android:32c5a4754be5afc8995f3c",
+        "android_client_info": {
+          "package_name": "com.example.potholechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616119166325-06s47seq3bdletunm61p0q9p8nohb259.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfJraqJNBas-LirG7qjuIwi-sKT9PlXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616119166325-06s47seq3bdletunm61p0q9p8nohb259.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
